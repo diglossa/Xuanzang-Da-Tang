@@ -1,0 +1,27 @@
+{
+    "author": {
+        "lang": "zh",
+        "nic": "xiyuuji",
+        "url": "Xi-yuu-ji",
+        "ru": "Лао-Цзы",
+        "en": "Xi-yuu-ji",
+    },
+    "translators": [
+        {"lang": "en",
+         "nic": "rongxi",
+         "en": "Li Rongxi",
+        }],
+    "editor": {
+        "ru": "должна быть вся информация",
+        "en": "should be filled in"
+    },
+
+    "tree": {
+        "url": "Da_Tang",
+        "en": "Da_Tang",
+        "children": [
+            {"url": "da_tang",
+             "en": "da_tang"}
+        ]
+    }
+}
