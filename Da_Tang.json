@@ -1,27 +1,54 @@
 {
     "author": {
         "lang": "zh",
-        "nic": "xiyuuji",
-        "url": "Xi-yuu-ji",
-        "ru": "Лао-Цзы",
-        "en": "Xi-yuu-ji",
+        "nic": "zuanzang",
+        "url": "Xuanzang",
+        "ru": "Xuanzang",
+        "en": "Xuanzang"
     },
     "translators": [
         {"lang": "en",
          "nic": "rongxi",
-         "en": "Li Rongxi",
+         "en": "Li Rongxi"
         }],
     "editor": {
         "ru": "должна быть вся информация",
         "en": "should be filled in"
     },
-
     "tree": {
-        "url": "Da_Tang",
-        "en": "Da_Tang",
+        "url": "Da Tang",
+        "en": "Da Tang",
         "children": [
-            {"url": "da_tang",
-             "en": "da_tang"}
+            {"url": "Preface-I",
+             "en": "Preface I"},
+            {"url": "Preface-II",
+             "en": "Preface II"},
+            {"url": "I.-Thirty-four-Countries,-from-Agni-to-Kāpiśī",
+             "en": "I. Thirty-four Countries, from Agni to Kāpiśī"},
+            {"url": "II.-Three-Countries,-from-Lampā-to-Gandhāra",
+             "en": "II. Three Countries, from Lampā to Gandhāra"},
+            {"url": "III.-Eight-Countries,-from-Udyāna-to-Rājapura",
+             "en": "III. Eight Countries, from Udyāna to Rājapura"},
+            {"url": "IV.-Fifteen-Countries,-from-Ṭakka-to-Kapitha",
+             "en": "IV. Fifteen Countries, from Ṭakka to Kapitha"},
+            {"url": "V.-Six-Countries,-from-Kanyākubja-to-Visaka",
+             "en": "V. Six Countries, from Kanyākubja to Visaka"},
+            {"url": "VI.-Four-Countries,-from-Srāvastī-to-Kuśinagara",
+             "en": "VI. Four Countries, from Srāvastī to Kuśinagara"},
+            {"url": "VII.-Five-Countries,-from-Bārāṇasī-to-Nepāla",
+             "en": "VII. Five Countries, from Bārāṇasī to Nepāla"},
+            {"url": "VIII.-The-Country-of-Magadha-I",
+             "en": "VIII. The Country of Magadha-I"},
+            {"url": "IX.-The-Country-of-Magadha-II",
+             "en": "IX. The Country of Magadha-II"},
+            {"url": "X.-Seventeen-Countries,-from-Īraṇaparvata-to-Malakūṭa",
+             "en": "X. Seventeen Countries, from Īraṇaparvata to Malakūṭa"},
+            {"url": "XI.-Twenty-three-Countries,-from-Siṃhala-to-Varnu",
+             "en": "XI. Twenty-three Countries, from Siṃhala to Varnu"},
+            {"url": "XII.-Twenty-two-Countries,-from-Jāguda-to-Gostana",
+             "en": "XII. Twenty-two Countries, from Jāguda to Gostana"},
+            {"url": "",
+             "en": ""}
         ]
     }
 }
